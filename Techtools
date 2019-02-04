@@ -1,0 +1,57 @@
+#TECH TOOLS 
+
+Tech Tools
+Below is a list of Tech Tools that I have used or recommend.
+(I’m not being paid to advertise these)
+
+Disk Repair
+– SpinRite
+
+Read Mac formated hard drive on windows machine
+– Paragon +HFS
+
+Dynamic DNS
+(Used if you want to point a name to a alternating IP address like a home router)
+– afraid
+– Googles DNS
+
+Password Management and Account Security
+– Lastpass
+– Yubikey
+
+Backup Solution (don’t have one feel free to recommend one)
+– Currently looking into Backblaze
+
+Home Wifi solution
+– Unifi
+– Amplifi – Mesh Solution
+
+Ethernet Extenders through Power wall outlet.
+– I don’t recommend any…. Ever….Ever
+
+Remote Desktop Management to get into your parents computer
+– Teamviewer
+
+Home Media Streaming Solution
+– Plex
+
+Ad Removal of network
+– PiHole
+
+Gaming Sytem
+– RetroPie
+
+DOn’t know linux but want to transfer files
+– WinSCP
+
+Handbrake
+– Helps rip your movies you own so you can watch them on Plex
+
+MakeMKV – Turns BlueRays into .mkv files so Handbrake can make them a smaller more manageable size
+
+PRTG – Network Monitoring.  100 free nodes for home lab.  not bad.
+– only install-able on windows servers though.
+
+canva for image editing for website stuff
+
+Real media player get videos off the net
